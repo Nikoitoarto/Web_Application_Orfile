@@ -2,9 +2,9 @@
 #### This software project is a comprehensive solution designed to help companies optimize the management of their documents and files, facilitating the digitization, organization and preservation of key information. The system architecture is based on microservices developed in Spring Boot for the BackEnd and a FrontEnd built with Angular, which guarantees scalability, performance and an intuitive user experience.
 
 ## Repositories
-### BackEnd :
+### BackEnd: https://github.com/Nikoitoarto/FrontEnd_Orfile.git
 ####
-### FrontEnd:
+### FrontEnd: https://github.com/Nikoitoarto/FrontEnd_Orfile.git
 ####
 
 ## Objective System
