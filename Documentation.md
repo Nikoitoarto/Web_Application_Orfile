@@ -7,6 +7,6 @@
 ### FrontEnd:
 ####
 
-## objective System
+## Objective System
 #### To provide an efficient, scalable and secure solution for document management, contributing to the digital transformation of companies, improving the organization of their files and reducing the use of physical documents.
 
